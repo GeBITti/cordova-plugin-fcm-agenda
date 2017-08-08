@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "47321852261",
-    "firebase_url": "https://laab-f6fb3.firebaseio.com",
-    "project_id": "laab-f6fb3",
-    "storage_bucket": "laab-f6fb3.appspot.com"
+    "project_number": "484540223926",
+    "firebase_url": "https://escolaagenda-20379.firebaseio.com",
+    "project_id": "escolaagenda-20379",
+    "storage_bucket": "escolaagenda-20379.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:47321852261:android:07ce8321765e35ba",
+        "mobilesdk_app_id": "1:484540223926:android:9f0599c8aa491481",
         "android_client_info": {
-          "package_name": "br.com.uselaab.laab"
+          "package_name": "br.com.gebit.escolaagenda"
         }
       },
       "oauth_client": [
         {
-          "client_id": "47321852261-fkg3etmsl64fbs3kdb2r2i11gqafcl8g.apps.googleusercontent.com",
+          "client_id": "484540223926-gq2eshqagt7076ah6ivddutn0ptptuke.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDyqzVMMXhD68cjbmtpLc-QI8hOEft8frU"
+          "current_key": "AIzaSyAQkDfhFCrjIDW3I_a8i8z3EMhgyRO42qs"
         }
       ],
       "services": {

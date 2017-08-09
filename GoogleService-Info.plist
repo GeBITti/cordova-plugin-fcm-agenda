@@ -7,9 +7,9 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>484540223926-35n8ij4bfk19h525stchfhhtoliq9djc.apps.googleusercontent.com</string>
+	<string>484540223926-lb2kecaqk4vrtl6d5c882vl5edo9de8j.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.484540223926-35n8ij4bfk19h525stchfhhtoliq9djc</string>
+	<string>com.googleusercontent.apps.484540223926-lb2kecaqk4vrtl6d5c882vl5edo9de8j</string>
 	<key>API_KEY</key>
 	<string>AIzaSyAoMM0LQh5KVW7AnuxyhtTK06PRqwtn4c8</string>
 	<key>GCM_SENDER_ID</key>
@@ -17,7 +17,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>br.com.gebit.escolaagenda</string>
+	<string>io.gebit.clientes.escolaagenda</string>
 	<key>PROJECT_ID</key>
 	<string>escolaagenda-20379</string>
 	<key>STORAGE_BUCKET</key>
@@ -33,7 +33,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:484540223926:ios:9f0599c8aa491481</string>
+	<string>1:484540223926:ios:41d8ce47ad1c821b</string>
 	<key>DATABASE_URL</key>
 	<string>https://escolaagenda-20379.firebaseio.com</string>
 </dict>

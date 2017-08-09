@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:484540223926:android:9f0599c8aa491481",
+        "mobilesdk_app_id": "1:484540223926:android:41d8ce47ad1c821b",
         "android_client_info": {
-          "package_name": "br.com.gebit.escolaagenda"
+          "package_name": "io.gebit.clientes.escolaagenda"
         }
       },
       "oauth_client": [
